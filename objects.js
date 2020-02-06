@@ -2,7 +2,7 @@ let playlist = {'Jay Chou': 'Love Confession'};
 
 //updatePlaylist
 function updatePlaylist(playlist, artist, song){
-  playlist[artist] = song;
+  playlist.artist = song;
   return playlist;
 }
 
