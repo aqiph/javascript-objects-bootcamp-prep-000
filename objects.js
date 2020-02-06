@@ -1,4 +1,4 @@
-let playlist = {'Jay Chou': 'Love Confession'};
+let playlist = {};
 
 //updatePlaylist
 function updatePlaylist(playlist, artist, song){
@@ -12,5 +12,3 @@ function removeFromPlaylist(playlist, artist){
   return playlist;
 }
 
-updatePlaylist(playlist, 'a', 1)
-console.log(playlist['Jay Chou'])
