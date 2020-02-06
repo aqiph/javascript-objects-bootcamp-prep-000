@@ -13,4 +13,4 @@ function removeFromPlaylist(playlist, artist){
 }
 
 
-console.log(playlist[])
+console.log(playlist['Jay Chou'])
