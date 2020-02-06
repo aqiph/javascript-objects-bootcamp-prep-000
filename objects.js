@@ -12,5 +12,5 @@ function removeFromPlaylist(playlist, artist){
   return playlist;
 }
 
-
+updatePlaylist(playlist, artist, song)
 console.log(playlist['Jay Chou'])
