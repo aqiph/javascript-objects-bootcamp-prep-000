@@ -1,4 +1,4 @@
-let playlist = {};
+let playlist = {'Jay Chou': 'Love Confession'};
 
 //updatePlaylist
 function updatePlaylist(playlist, artist, song){
